@@ -1,4 +1,6 @@
-#Sudoku Solver
+# Sudoku Solver
+
+This is a sudoku solver written to practice the basic concepts of Javascript and Node.js.
 
 The general algorithm for solving uses a brute force backtracing algorithm, the general outline of which is as follows:
 
